@@ -12,7 +12,7 @@ showing some python basics
 
 ### 1.2. pr0tagger - single class classification
 bulding an single class classification using 
-####1.2.1. Requirements
+> Requirements
 - pypr0 (https://github.com/itssme/pypr0)
 - tensorflow 2
 - sklearn
