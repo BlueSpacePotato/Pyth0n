@@ -11,7 +11,7 @@ The work is still going on. If you have a suggestion, please let me know.
 showing some python basics 
 
 ### 1.2. pr0tagger - single class classification
-bulding an single class classification using 
+Bulding an single class classification using pr0-tags.
 > Requirements
 - pypr0 (https://github.com/itssme/pypr0)
 - tensorflow 2
