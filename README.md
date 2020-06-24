@@ -6,7 +6,6 @@ This repository shows some basic Python programming. From a simple "hello world"
 The work is still going on. If you have a suggestion, please let me know.
 
 ## 1. What is thtat about
----
 ### 1.1. pyth0n - hello w0rld
 showing some python basics 
 
